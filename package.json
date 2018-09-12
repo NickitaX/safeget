@@ -1,0 +1,25 @@
+{
+  "name": "safeget",
+  "version": "1.0.0",
+  "description": "Safe JSON unwrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.js --exit"
+  },
+  "author": "Nick Shulhin msh@octo.com",
+  "license": "ISC",
+  "keywords": [
+    "json",
+    "unwrap",
+    "object",
+    "safe",
+    "get"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickitaX/safeget.git"
+  },
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
